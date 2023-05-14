@@ -24,7 +24,6 @@ class Teacher extends Person {
 	}
 }
 
-const Person = win.Person; 
 const person = new Person("John", 25);
 
 // Do not change the code below this line
