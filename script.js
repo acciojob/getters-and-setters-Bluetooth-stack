@@ -7,7 +7,7 @@ class Person {
 	get _name(){
 		return this.name;
 	}
-	set age(newAge){
+	set _age(newAge){
 		this.age = newAge;
 	}
 }
